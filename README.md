@@ -99,7 +99,6 @@ https://youtu.be/qqBjo1s5g7c
 
 
 IMG:
-<p align="center">
-  <img src="CP-Desenvolvimento-Mobile/IMG/IMG RESULTADO.png">
-</p>
+
+![Texto](CP-Desenvolvimento-Mobile/IMG/IMG RESULTADO.png)
 
