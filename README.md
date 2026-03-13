@@ -100,5 +100,5 @@ https://youtu.be/qqBjo1s5g7c
 
 IMG:
 
-![Texto](CP-Desenvolvimento-Mobile/IMG/IMG RESULTADO.png)
+![Resultado](CP-Desenvolvimento-Mobile/IMG/IMG%20RESULTADO.png)
 
