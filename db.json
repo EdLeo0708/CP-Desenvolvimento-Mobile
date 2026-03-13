@@ -1,0 +1,271 @@
+{
+  "ranking": [
+    {
+      "id": "1",
+      "sala": "ADS",
+      "pontos": 10
+    },
+    {
+      "id": "2",
+      "sala": "ES Paulista",
+      "pontos": 8
+    },
+    {
+      "id": "3",
+      "sala": "ES Lins",
+      "pontos": 6
+    }
+  ],
+  "jogos": [
+    {
+      "id": "658c",
+      "timeA": "Paulista",
+      "timeB": "Lins",
+      "local": "FIAP",
+      "horario": "10:00 AM"
+    },
+    {
+      "id": "1315"
+    },
+    {
+      "id": "31fe",
+      "timeA": "ADS",
+      "timeB": "ES Paulista",
+      "local": "Quadra 1",
+      "horario": "10:00"
+    },
+    {
+      "id": "1d39",
+      "timeA": "ADS",
+      "timeB": "ES Paulista",
+      "local": "Quadra 1",
+      "horario": "10:00"
+    },
+    {
+      "id": "2ddd",
+      "timeA": "ADS",
+      "timeB": "ES Paulista",
+      "local": "Quadra 1",
+      "horario": "10:00"
+    },
+    {
+      "id": "d48f",
+      "modalidade": "Futsal",
+      "timeA": "Paulista",
+      "timeB": "vila Mariana",
+      "local": "FIAP",
+      "horario": "10:00AM"
+    },
+    {
+      "id": "eb84",
+      "timeA": "ADS",
+      "timeB": "ES Paulista",
+      "local": "Quadra 1",
+      "horario": "10:00"
+    },
+    {
+      "id": "1c89",
+      "modalidade": "Volei",
+      "timeA": "Paulista",
+      "timeB": "Vila Mariana ",
+      "local": "FIAP",
+      "horario": "10:00AM"
+    },
+    {
+      "id": "4f30",
+      "timeA": "ADS",
+      "timeB": "ES Paulista",
+      "local": "Quadra 1",
+      "horario": "10:00"
+    },
+    {
+      "id": "7f63",
+      "timeA": "ADS",
+      "timeB": "ES Paulista",
+      "local": "Quadra 1",
+      "horario": "10:00"
+    },
+    {
+      "id": "681c",
+      "timeA": "ADS",
+      "timeB": "ES Paulista",
+      "local": "Quadra 1",
+      "horario": "10:00"
+    },
+    {
+      "id": "8e04",
+      "timeA": "ADS",
+      "timeB": "ES Paulista",
+      "local": "Quadra 1",
+      "horario": "10:00"
+    },
+    {
+      "id": "6909",
+      "modalidade": "Futsal",
+      "timeA": "Paulista",
+      "timeB": "Vila Mariana ",
+      "local": "FIAP",
+      "horario": "10:00AM"
+    },
+    {
+      "id": "2a4e",
+      "timeA": "ADS",
+      "timeB": "ES Paulista",
+      "local": "Quadra 1",
+      "horario": "10:00"
+    }
+  ],
+  "resultado": [
+    {
+      "id": "e08e",
+      "jogoId": 1,
+      "placarA": 2,
+      "placarB": 1
+    },
+    {
+      "id": "0e90",
+      "jogoId": 1,
+      "placarA": 2,
+      "placarB": 1
+    },
+    {
+      "id": "dcd6",
+      "jogoId": 1,
+      "placarA": 2,
+      "placarB": 1
+    },
+    {
+      "id": "933f"
+    },
+    {
+      "id": "ddf4",
+      "jogoId": 1,
+      "placarA": 2,
+      "placarB": 1
+    },
+    {
+      "id": "34c8",
+      "timeA": "Paulista",
+      "timeB": "vila Mariana",
+      "placarA": "10",
+      "placarB": "5"
+    },
+    {
+      "id": "2cdf",
+      "jogoId": 1,
+      "placarA": 2,
+      "placarB": 1
+    },
+    {
+      "id": "f1bf",
+      "timeA": "Paulista",
+      "timeB": "Vila Mariana ",
+      "placarA": "100",
+      "placarB": "5"
+    },
+    {
+      "id": "44c2",
+      "jogoId": 1,
+      "placarA": 2,
+      "placarB": 1
+    },
+    {
+      "id": "72bd",
+      "jogoId": 1,
+      "placarA": 2,
+      "placarB": 1
+    },
+    {
+      "id": "84d5",
+      "jogoId": 1,
+      "placarA": 2,
+      "placarB": 1
+    },
+    {
+      "id": "2a43",
+      "jogoId": 1,
+      "placarA": 100,
+      "placarB": 5
+    },
+    {
+      "id": "5d11",
+      "jogoId": 1,
+      "placarA": 100,
+      "placarB": 5
+    },
+    {
+      "id": "7a29",
+      "jogoId": 1,
+      "placarA": 100,
+      "placarB": 5
+    },
+    {
+      "id": "f167",
+      "jogoId": 1,
+      "placarA": 100,
+      "placarB": 5
+    },
+    {
+      "id": "efd7",
+      "jogoId": 1,
+      "placarA": 100,
+      "placarB": 5
+    },
+    {
+      "id": "be91",
+      "jogoId": 1,
+      "placarA": 100,
+      "placarB": 5
+    },
+    {
+      "id": "7b1f",
+      "jogoId": 1,
+      "placarA": 100,
+      "placarB": 5
+    },
+    {
+      "id": "870a",
+      "jogoId": 1,
+      "placarA": 100,
+      "placarB": 5
+    },
+    {
+      "id": "73ec",
+      "jogoId": 1,
+      "placarA": 100,
+      "placarB": 5
+    },
+    {
+      "id": "1a3b",
+      "jogoId": 1,
+      "placarA": 100,
+      "placarB": 5
+    },
+    {
+      "id": "1405",
+      "jogoId": 1,
+      "placarA": 100,
+      "placarB": 5
+    },
+    {
+      "id": "c7f0",
+      "jogoId": 1,
+      "placarA": 100,
+      "placarB": 5
+    },
+    {
+      "id": "67e0",
+      "timeA": "Paulista",
+      "timeB": "Vila Mariana ",
+      "placarA": "10",
+      "placarB": "1"
+    },
+    {
+      "id": "44e4",
+      "jogoId": 1,
+      "placarA": 100,
+      "placarB": 5
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
