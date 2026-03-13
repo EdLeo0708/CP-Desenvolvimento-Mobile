@@ -96,3 +96,8 @@ O aplicativo Interclasse Digital demonstra a integração entre React Native, AP
 
 VIDEO: 
 https://youtu.be/qqBjo1s5g7c
+
+
+IMG:
+
+
